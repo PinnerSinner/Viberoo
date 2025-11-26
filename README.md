@@ -56,6 +56,7 @@ The app automatically detects which mode to use.
 
 ### Hero Section 
 <kbd><img width="800" alt="Viberoo Hero Section and Track Grid" src="./src/assets/images/Screenshot 2025-11-26 142255.png"></kbd>
+
 [![hero-(1).gif](https://i.postimg.cc/VsKhMjJD/hero-(1).gif)](https://postimg.cc/Dmb534dX)
 <br/>
 
