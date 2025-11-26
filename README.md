@@ -55,7 +55,7 @@ The app automatically detects which mode to use.
 ## :camera: Screenshots
 
 ### Hero Section 
-<kbd><img width="800" alt="Viberoo Hero Section and Track Grid" src="./src/assets/images/hero.png"></kbd>
+<kbd><img width="800" alt="Viberoo Hero Section and Track Grid" src="./src/assets/images/Screenshot 2025-11-26 142255.png"></kbd>
 
 <br/>
 
