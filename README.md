@@ -59,6 +59,9 @@ The app automatically detects which mode to use.
 
 [![hero-(1).gif](https://i.postimg.cc/VsKhMjJD/hero-(1).gif)](https://postimg.cc/Dmb534dX)
 
+<a href='https://postimg.cc/Dmb534dX' target='_blank'><img src='https://i.postimg.cc/VsKhMjJD/hero-(1).gif' border='0' alt='hero-(1)'></a>
+
+
 
 <br/>
 
