@@ -60,7 +60,7 @@ The app automatically detects which mode to use.
 <br/>
 
 ### Homepage
-<kbd><img width="800" alt="Viberoo Homepage with Music Content" src="./src/assets/images/all-songs.png"></kbd>
+<kbd><img width="800" alt="Viberoo Homepage with Music Content" src="./src/assets/images/Screenshot 2025-11-19 230244.png"></kbd>
 
 
 <br/>
