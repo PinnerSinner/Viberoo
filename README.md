@@ -59,7 +59,7 @@ The app automatically detects which mode to use.
 
 [![hero-(1).gif](https://i.postimg.cc/VsKhMjJD/hero-(1).gif)](https://postimg.cc/Dmb534dX)
 
-[hero-(1).gif](https://postimg.cc/Dmb534dX) 
+
 <br/>
 
 ### Homepage
