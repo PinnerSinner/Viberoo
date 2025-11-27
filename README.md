@@ -168,7 +168,6 @@ npm run preview
 
 ### Getting Help
 - See `SPOTIFY_SETUP.md` for API setup guidance
-- [Reach out to the NextWork community to ask your question!](https://community.nextwork.org/c/i-have-a-question/)
 
 ---
 
